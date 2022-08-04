@@ -1,0 +1,12 @@
+#a{
+  background-image: linear-gradient(to left,crimson,orange);
+  font-weight:bold;
+  color:green;
+}
+#b{
+  z-index: 1;
+  background-color: rgba(0,200,0,0.3);
+}
+form{
+
+}

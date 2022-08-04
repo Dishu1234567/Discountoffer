@@ -1,0 +1,24 @@
+@keyframes shift {
+  0% {
+    color: crimson;
+  }
+  25% {
+    color: orangered;
+  }
+  50% {
+    color: darkgoldenrod;
+  }
+  75% {
+    color: yellow;
+  }
+  100% {
+    color: crimson;
+  }
+}
+.start li {
+  display: inline-block;
+  margin: 10px;
+}
+.container {
+  display: inline-grid;
+}
